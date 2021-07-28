@@ -1,0 +1,26 @@
+{
+    "name": "phpnbplus/pinduoduo-sdk",
+    "description": "拼多多API SDK【拼多多开放平台】.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "pinduoduo",
+        "duoduoke",
+        "拼多多",
+        "拼多多SDK",
+        "多多客",
+        "sdk"
+    ],
+    "authors": [
+        {
+            "name": "拼多多",
+            "email": "948991063@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Com\\Pdd\\Pop\\Sdk\\": "src/"
+        }
+    },
+    "require": {}
+}
